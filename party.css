@@ -277,3 +277,6 @@ ul {
   list-style: none;
   font-size: 2em;
 }
+a {
+  font-size: 0.8em;
+}
